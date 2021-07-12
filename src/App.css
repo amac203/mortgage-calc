@@ -1,0 +1,25 @@
+.App {
+}
+
+.calculator {
+  display: flex;
+  flex-direction: row;
+  padding: 1em
+}
+
+.detailsForm {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.resultsDisplay {
+  padding: 2em;
+  background-color: lightgrey
+}
+
+.switch {
+  margin-bottom: 1em
+}
